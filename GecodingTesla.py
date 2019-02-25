@@ -3,7 +3,7 @@ import numpy as np
 import googlemaps
 import gmaps
 
-API_KEY = 'AIzaSyDWWWA1H9B2pJ1_F8PeNxqkr4Kw9fBl8LU'
+API_KEY = 'YOUR API KEY'
 gm = googlemaps.Client(key=API_KEY)
 
 data = pd.read_csv('/Users/Ramzi/Dropbox/GGS 675/Location Science Project/VA_Tesla_Current2.csv', low_memory=False, index_col = 'id')
