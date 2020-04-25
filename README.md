@@ -27,11 +27,11 @@ Logic Design of Program:
 
 
 ### OD Matrix Snippet
-![OD Matrix](OD Matrix Snippet.png)
+![OD Matrix](OD_Matrix_Snippet.png)
 
 
 ### P-Median In Python
-![PmedianSnippet](pemdian_formual.png)
+![PmedianSnippet](pmedian_formual.png)
 
 
 ### Solved Using Python
