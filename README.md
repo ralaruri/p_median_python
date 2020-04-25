@@ -27,7 +27,7 @@ Logic Design of Program:
 
 
 ### OD Matrix Snippet
-![OD Matrix](OD_Matrix_Snippet.png)
+![OD Matrix](OD Matrix Snippet.png)
 
 
 ### P-Median In Python
