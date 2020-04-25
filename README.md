@@ -22,16 +22,20 @@ Logic Design of Program:
 
 
 ### P-Median Formulation: 
+![Chart1](Graph1.png)
 
 
 
 ### OD Matrix Snippet
+![Chart1](Graph1.png)
 
 
 ### P-Median In Python
+![Chart1](Graph1.png)
 
 
 ### Solved Using Python
+![Chart1](Graph1.png)
 
 
 
